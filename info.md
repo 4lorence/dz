@@ -17,15 +17,10 @@
 
 ![description](photo link)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 ## quote
 
 > use (>)-quote
-=======
-=======
->>>>>>> less_2
+
 ## quote
 
 > use (>)-quote
@@ -47,9 +42,6 @@
 >*git checkout main* - transition to main commit
 
 >*git diff* -comparsion commits
-<<<<<<< HEAD
->>>>>>> less_1
-=======
 
 # main command 2 seminar
 
