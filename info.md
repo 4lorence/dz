@@ -23,18 +23,18 @@
 
 # main command 1 seminar
 
->*git init*
+>*git init* - initialization local rep
 
->*git status*
+>*git status* - information from git about current state
 
->*git add*
+>*git add* - add file to next commit
 
->*git commit -m*
+>*git commit -m* - create commit
 
->*git commit -am*
+>*git commit -am* - add file and create commit
 
->*git checkout*
+>*git checkout* - transitions between commits
 
->*git checkout main*
+>*git checkout main* - transition to main commit
 
->*git diff*
+>*git diff* -comparsion commits
