@@ -41,18 +41,16 @@
 
 # main command 2 seminar
 
->*bit branch*
+>*bit branch* - see list all branch
 
->*gin branch "name branch"*
+>*gin branch "name branch"* - create new branch
 
->*git checkout "name branch"*
+>*git checkout "name branch"* - transition to branch
 
->*git branch -d*
+>*git branch -d "name branch"* - delete branch
 
->*git checkout -b*
+>*git checkout -b* - create and transition to branch
 
->*git merge*
+>*git merge* - merge branches
 
-
-
->
+>git merge --abort - abort branches
