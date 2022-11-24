@@ -17,7 +17,31 @@
 
 ![description](photo link)
 
+<<<<<<< HEAD
 
 ## quote
 
 > use (>)-quote
+=======
+## quote
+
+> use (>)-quote
+
+# main command 1 seminar
+
+>*git init* - initialization local rep
+
+>*git status* - information from git about current state
+
+>*git add* - add file to next commit
+
+>*git commit -m* - create commit
+
+>*git commit -am* - add file and create commit
+
+>*git checkout* - transitions between commits
+
+>*git checkout main* - transition to main commit
+
+>*git diff* -comparsion commits
+>>>>>>> less_1
