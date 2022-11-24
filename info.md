@@ -54,3 +54,5 @@
 >*git merge* - merge branches
 
 >git merge --abort - abort branches
+
+d
