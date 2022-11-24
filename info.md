@@ -66,4 +66,4 @@
 >*git merge* - merge branches
 
 >git merge --abort - abort branches
->>>>>>> less_2
+
