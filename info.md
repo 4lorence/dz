@@ -18,11 +18,14 @@
 ![description](photo link)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## quote
 
 > use (>)-quote
 =======
+=======
+>>>>>>> less_2
 ## quote
 
 > use (>)-quote
@@ -44,4 +47,23 @@
 >*git checkout main* - transition to main commit
 
 >*git diff* -comparsion commits
+<<<<<<< HEAD
 >>>>>>> less_1
+=======
+
+# main command 2 seminar
+
+>*bit branch* - see list all branch
+
+>*gin branch "name branch"* - create new branch
+
+>*git checkout "name branch"* - transition to branch
+
+>*git branch -d "name branch"* - delete branch
+
+>*git checkout -b* - create and transition to branch
+
+>*git merge* - merge branches
+
+>git merge --abort - abort branches
+>>>>>>> less_2
