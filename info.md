@@ -25,12 +25,6 @@
 
 > use (>)-quote
 
-# useful links
-
->[geekbrains](https://gb.ru/)
-
-> [github](https://github.com/)
-
 # main command 1 seminar
 
 >*git init* - initialization local rep
