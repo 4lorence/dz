@@ -67,10 +67,12 @@
 
 # main command 3 seminar
 
->
+>*git clone* - 
 
->
+>*git push*
 
->
+>*git push 
 
->
+>*git pull*
+
+>fork
