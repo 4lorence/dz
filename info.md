@@ -67,12 +67,12 @@
 
 # main command 3 seminar
 
->*git clone* - 
+>*git clone* - copy remote rep to local rep
 
->*git push*
+>*git push* -push branch main to remote rep
 
 >*git push 
 
->*git pull*
+>*git pull* - download all changes remote rep and merge local rep
 
->fork
+>fork - name another rep
