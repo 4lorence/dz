@@ -65,3 +65,12 @@
 
 >git merge --abort - abort branches
 
+# main command 3 seminar
+
+>
+
+>
+
+>
+
+>
